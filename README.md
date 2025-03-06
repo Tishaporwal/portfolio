@@ -27,10 +27,8 @@ To run this project locally:
    ```sh
    cd portfolio
    ```
-3. **Open `index.html` in your browser.**
+3. **Open `portfolio.html` in your browser.**
 
-## 🌐 Live Demo
-[View Portfolio](https://tishaporwal.github.io/portfolio/) *(If deployed on GitHub Pages or Netlify)*
 
 ## 📞 Contact Me
 📧 Email: [tishaporwal02@gmail.com](mailto:tishaporwal02@gmail.com)  
