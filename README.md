@@ -28,6 +28,9 @@ To run this project locally:
    cd portfolio
    ```
 3. **Open `portfolio.html` in your browser.**
+4. ## 🌐 Live Demo  
+🔗 [View Portfolio](https://tishaporwal.github.io/portfolio/)
+
 
 
 ## 📞 Contact Me
